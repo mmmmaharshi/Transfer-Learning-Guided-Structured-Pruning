@@ -1,4 +1,4 @@
-# Accuracy-Preserving Structured Pruning via Interleaved Taylor Importance Scoring and Knowledge Distillation Recovery for Efficient Transfer Learning
+# Transfer Learning–Guided Structured Pruning for Compact Deep Neural Networks: Improving Accuracy Without Sacrificing Compression
 
 ---
 
